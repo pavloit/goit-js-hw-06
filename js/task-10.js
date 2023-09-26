@@ -25,7 +25,6 @@ function onDestroy() {
 }
 
 function createBoxes(amount) {
-  console.log(amount);
   let markup = ''
   let size = 30;
   for (let i = 0; i < amount; i++){
